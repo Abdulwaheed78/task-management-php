@@ -1,4 +1,4 @@
-Task Management
+**Task Management**
 Task Management is a small-purpose website that allows users to create tasks, set due dates, and mark tasks as completed by checking a checkbox. This straightforward task management tool has been incredibly helpful in my job, and I believe it will benefit others as well.
 
 Features
